@@ -9,6 +9,9 @@ archive/
 *.csv
 *.docx
 *.json
+*.json
+*.crc
+_SUCCESS
 
 # Byte-compiled / optimized / DLL files
 *.py[cod]
